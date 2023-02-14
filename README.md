@@ -13,3 +13,5 @@
 ## Anaconda镜像源
 
 [pip使用总结](https://blog.csdn.net/suiyingy/article/details/119211593)
+
+需要将`anaconda_source`中的文件改名为`.condarc`
