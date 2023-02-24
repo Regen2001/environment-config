@@ -25,3 +25,11 @@
 ## vscode python
 
 [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
+
+## vscode arduino
+
+[Vscode中使用Arduino](https://blog.csdn.net/weixin_70030015/article/details/127053111)
+
+[VSCode配置Arduino环境](https://blog.csdn.net/lucky_chong/article/details/123654514)
+
+[PlatformIO IDE(VSCode) 基本使用](https://zhuanlan.zhihu.com/p/78722930)
