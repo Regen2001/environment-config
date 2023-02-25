@@ -26,7 +26,7 @@
 
 [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
 
-## vscode arduino
+## vscode 单片机
 
 [Vscode中使用Arduino](https://blog.csdn.net/weixin_70030015/article/details/127053111)
 
