@@ -33,3 +33,7 @@
 [VSCode配置Arduino环境](https://blog.csdn.net/lucky_chong/article/details/123654514)
 
 [PlatformIO IDE(VSCode) 基本使用](https://zhuanlan.zhihu.com/p/78722930)
+
+## vim python
+
+[vim配置成python专属IDE](https://zhuanlan.zhihu.com/p/532772558)
