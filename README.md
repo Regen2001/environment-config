@@ -16,6 +16,12 @@
 
 需要将`anaconda_source`中的文件改名为`.condarc`
 
+出现`Anaconda, Inc. on win32`的情况，说明电脑被Win32/Grenam.VA!MSR病毒感染
+
+[Virus:Win32/Grenam.VA!MSR](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Virus:Win32/Grenam.VA!MSR)
+
+[This Python interpreter is in a conda environment, but the environment has not been activated](https://stackoverflow.com/questions/70550108/this-python-interpreter-is-in-a-conda-environment-but-the-environment-has-not-b)
+
 ## vscode C/C++
 
 [VSCode配置C/C++环境](https://zhuanlan.zhihu.com/p/87864677/)
