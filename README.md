@@ -40,6 +40,10 @@
 
 [PlatformIO IDE(VSCode) 基本使用](https://zhuanlan.zhihu.com/p/78722930)
 
+[Mac 下 Arduino 开发环境搭建](https://blog.csdn.net/Yiang0/article/details/125313584)
+
+[Mac OS环境下使用VS Code开发Arduino](https://www.jianshu.com/p/f12b9e7f88e9)
+
 ## vim python
 
 [vim配置成python专属IDE](https://zhuanlan.zhihu.com/p/532772558)
