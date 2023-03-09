@@ -22,6 +22,8 @@
 
 [This Python interpreter is in a conda environment, but the environment has not been activated](https://stackoverflow.com/questions/70550108/this-python-interpreter-is-in-a-conda-environment-but-the-environment-has-not-b)
 
+但出现这种情况也有可能是`Anaconda3-2022.10-Windows-x86_64.exe`的问题
+
 ## vscode C/C++
 
 [VSCode配置C/C++环境](https://zhuanlan.zhihu.com/p/87864677/)
