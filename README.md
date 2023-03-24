@@ -30,6 +30,12 @@
 
 [C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
 
+## opencv whl下载
+
+[清华镜像源](https://pypi.tuna.tsinghua.edu.cn/simple/opencv-contrib-python/)
+
+[国外网址](https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv)
+
 ## vscode python
 
 [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
