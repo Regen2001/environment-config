@@ -67,3 +67,5 @@
 ## Ubuntu安装ROS
 
 [在Ubuntu上安装ROS Noetic](http://wiki.ros.org/cn/noetic/Installation/Ubuntu#A.2BXwBZy1uJiMU-)
+
+[【ubuntu】ubuntu20.04安装ros noetic](https://blog.csdn.net/weixin_44244190/article/details/126854911)
