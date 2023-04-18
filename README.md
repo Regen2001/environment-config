@@ -63,3 +63,7 @@
 [动手学PyTorch深度学习建模与应用之PyTorch模型可视化](https://zhuanlan.zhihu.com/p/471539283)
 
 [Win / Mac安装Graphviz](https://www.bilibili.com/read/cv14639078)
+
+## Ubuntu安装ROS
+
+[在Ubuntu上安装ROS Noetic](http://wiki.ros.org/cn/noetic/Installation/Ubuntu#A.2BXwBZy1uJiMU-)
