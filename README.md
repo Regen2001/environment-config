@@ -36,6 +36,8 @@
 
 [国外网址](https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv)
 
+[python环境下安装opencv库的方法](https://www.cnblogs.com/shuaishuaidefeizhu/p/11314761.html)
+
 ## vscode python
 
 [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
