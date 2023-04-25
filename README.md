@@ -72,8 +72,6 @@
 
 [【ubuntu】ubuntu20.04安装ros noetic](https://blog.csdn.net/weixin_44244190/article/details/126854911)
 
-[树莓派UbuntuServer20.04.4LTS更换清华镜像源](https://blog.csdn.net/qq_44940992/article/details/124885131)
-
 [树莓派CM4烧录Ubuntu20镜像与ROS2的安装（无屏）](https://blog.csdn.net/xiaokang_rays/article/details/129741944)
 
 [树莓派4B安装ubuntu 20 ，opencv，pytorch，miniconda3，ncnn配置](https://www.bilibili.com/read/cv21781788)
