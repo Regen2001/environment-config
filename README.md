@@ -75,3 +75,5 @@
 [树莓派CM4烧录Ubuntu20镜像与ROS2的安装（无屏）](https://blog.csdn.net/xiaokang_rays/article/details/129741944)
 
 [树莓派4B安装ubuntu 20 ，opencv，pytorch，miniconda3，ncnn配置](https://www.bilibili.com/read/cv21781788)
+
+[树莓派4B（Ubuntu20.04）使用LCD1602液晶屏开机自动显示IP及其他信息](https://blog.csdn.net/weixin_40929065/article/details/126685611)
