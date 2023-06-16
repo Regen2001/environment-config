@@ -1,4 +1,6 @@
 {
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.editor.enablePreview": false
     "latex-workshop.latex.autoBuild.run": "onSave",
     "latex-workshop.showContextMenu": true,
     "latex-workshop.message.error.show": false,
