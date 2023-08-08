@@ -14,8 +14,6 @@
 
 [pip使用总结](https://blog.csdn.net/suiyingy/article/details/119211593)
 
-需要将`anaconda_source`中的文件改名为`.condarc`
-
 [This Python interpreter is in a conda environment, but the environment has not been activated](https://stackoverflow.com/questions/70550108/this-python-interpreter-is-in-a-conda-environment-but-the-environment-has-not-b). 但出现这种情况也有可能是`Anaconda3-2022.10-Windows-x86_64.exe`这个版本的问题
 
 ## vscode C/C++
