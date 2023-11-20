@@ -180,14 +180,14 @@
     "workbench.editorAssociations": {
         "*.md": "default"
     },
-    "matlab.matlabpath": "/Applications/MATLAB_R2022b.app/bin/matlab",
-    "matlab.mlintpath": "/Applications/MATLAB_R2022b.app/bin/maci64/mlint",
+    "matlab.matlabpath": "/Applications/MATLAB_R2023b.app/bin/matlab",
+    "matlab.mlintpath": "/Applications/MATLAB_R2023b.app/bin/maci64/mlint",
     "matlab.linterConfig": "",
     "files.associations": {"*.m": "matlab"},
     "matlab.linterEncoding" : "UTF-8",
-    "matlab-interactive-terminal.pythonPath": "/Applications/anaconda3/bin/python.app",
+    "matlab-interactive-terminal.pythonPath": "/Users/xiaoy/anaconda3/bin/python.app",
     "matlab-interactive-terminal.unicodeSwitch": true,
-    "matlab-formatter.pythonPath": "/Applications/anaconda3/bin/python.app",
+    "matlab-formatter.pythonPath": "/Users/xiaoy/anaconda3/bin/python.app",
     "editor.snippetSuggestions": "top",
     "workbench.iconTheme": "office-material-icon-theme",
 }
