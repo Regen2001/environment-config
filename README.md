@@ -10,7 +10,7 @@
 
 [Vscode编辑MATLAB](https://zhuanlan.zhihu.com/p/395486395)
 
-对于MacOS，也需要把Matlab的路径加入环境变量 ‘export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<matlabroot>/bin/glnxa64’
+对于MacOS，也需要把Matlab的路径加入环境变量 `export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<matlabroot>/bin/glnxa64`
 
 ## Anaconda镜像源
 
