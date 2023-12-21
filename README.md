@@ -38,6 +38,10 @@
 
 [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
 
+## vscode R
+
+[如何在 VSCODE 中高效使用 R 语言 （图文详解）](https://zhuanlan.zhihu.com/p/369698816)
+
 ## vscode 单片机
 
 [Vscode中使用Arduino](https://blog.csdn.net/weixin_70030015/article/details/127053111)
