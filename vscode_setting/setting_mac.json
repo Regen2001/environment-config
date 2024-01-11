@@ -177,9 +177,9 @@
     "workbench.colorTheme": "GitHub Dark Default",
     "code-runner.saveAllFilesBeforeRun": true,
     "workbench.editor.untitled.hint": "hidden",
-    "workbench.editorAssociations": {
-        "*.md": "default"
-    },
+    // "workbench.editorAssociations": {
+    //     "*.md": "default"
+    // },
     "matlab.matlabpath": "/Applications/MATLAB_R2023b.app/bin/matlab",
     "matlab.mlintpath": "/Applications/MATLAB_R2023b.app/bin/maci64/mlint",
     "matlab.linterConfig": "",
@@ -190,4 +190,5 @@
     "matlab-formatter.pythonPath": "/Users/xiaoy/anaconda3/bin/python.app",
     "editor.snippetSuggestions": "top",
     "workbench.iconTheme": "office-material-icon-theme",
+    "workbench.editor.enablePreview": false,
 }
