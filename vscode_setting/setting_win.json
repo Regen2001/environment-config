@@ -206,8 +206,9 @@
     "terminal.integrated.enableMultiLinePasteWarning": false,
     "editor.cursorBlinking": "smooth",
     "git.autofetch": true,
-    "workbench.editorAssociations": {
-        "*.md": "default"
-    },
+    // "workbench.editorAssociations": {
+    //     "*.md": "default"
+    // },
     "hediet.vscode-drawio.theme": "automatic",
+    "workbench.editor.enablePreview": false,
 }
