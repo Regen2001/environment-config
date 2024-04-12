@@ -58,6 +58,8 @@
 
 [vim配置成python专属IDE](https://zhuanlan.zhihu.com/p/532772558)
 
+在使用`brew install vim`下载最新版vim后, 要`.zprofile`文件里面的`/opt/homebrew/bin`放到`/usr/local/bin`
+
 ## PyTorch可视化
 
 [【深度学习】PyTorch下的可视化工具（网络结构/训练过程可视化）](https://mp.weixin.qq.com/s?__biz=MjM5NzEyMzg4MA==&mid=2649467374&idx=8&sn=edd5a90a1d5e76a371c2e87e60da8a1d&chksm=bec1cba989b642bf2ccbf3b20a8a2a0fb61541e3be56e49391d0754b7334e164675218a3253e&scene=27)
