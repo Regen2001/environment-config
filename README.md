@@ -1,5 +1,11 @@
 # Environment Configuration
 
+## cuda和cudNN安装
+
+[显卡驱动 + CUDA + CuDNN + Pytorch全系列教程（非常详细）](https://blog.csdn.net/m0_60461719/article/details/135032177)
+
+[Cuda和cuDNN安装教程(超级详细)](https://blog.csdn.net/jhsignal/article/details/111401628)
+
 ## LaTeX for Windows and Mac
 
 [Vscode + LaTeX](https://zhuanlan.zhihu.com/p/166523064)
