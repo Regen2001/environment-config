@@ -32,6 +32,8 @@
 
 [C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
 
+`"cpp": "cd $dir && g++ -std=c++14 $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",` 通过修改里面的`-std=c++14`使用不同的C++标准
+
 ## opencv whl下载
 
 [清华镜像源](https://pypi.tuna.tsinghua.edu.cn/simple/opencv-contrib-python/)
