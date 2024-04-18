@@ -6,6 +6,8 @@
 
 [Cuda和cuDNN安装教程(超级详细)](https://blog.csdn.net/jhsignal/article/details/111401628)
 
+但安装`PyTorch`的时候使用`pip`安装效果似乎会更好. `python`版本为3.11的时候用`conda`安装似乎不能安装`cuda`版本.
+
 ## LaTeX for Windows and Mac
 
 [Vscode + LaTeX](https://zhuanlan.zhihu.com/p/166523064)
