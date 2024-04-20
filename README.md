@@ -22,11 +22,14 @@
 
 [Matlab jupyter安装](https://github.com/Calysto/matlab_kernel)
 
-## Anaconda镜像源
+## Anaconda安装以及镜像源
 
 [pip使用总结](https://blog.csdn.net/suiyingy/article/details/119211593)
 
 [This Python interpreter is in a conda environment, but the environment has not been activated](https://stackoverflow.com/questions/70550108/this-python-interpreter-is-in-a-conda-environment-but-the-environment-has-not-b). 但出现这种情况也有可能是`Anaconda3-2022.10-Windows-x86_64.exe`这个版本的问题
+
+Win安装完后可能在终端不显示`(base)`, 可参考下面的blog
+[win10安装完conda不显示base提示符/conda无法激活虚拟环境](https://blog.csdn.net/LMH564123/article/details/133150462)
 
 ## vscode C/C++
 
