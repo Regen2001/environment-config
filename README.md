@@ -54,6 +54,7 @@ Win安装完后可能在终端不显示`(base)`, 可参考下面的blog
 ## vscode R
 
 [如何在 VSCODE 中高效使用 R 语言 （图文详解）](https://zhuanlan.zhihu.com/p/369698816)
+[🤯 VS Code | 在VS Code中搭建你的R语言运行环境吧！~（图文介绍超详细）](https://cloud.tencent.com/developer/article/2224250)
 
 ## vscode 单片机
 
