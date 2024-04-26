@@ -31,6 +31,8 @@
 Win安装完后可能在终端不显示`(base)`, 可参考下面的blog
 [win10安装完conda不显示base提示符/conda无法激活虚拟环境](https://blog.csdn.net/LMH564123/article/details/133150462)
 
+[Ubuntu 安装 conda](https://zhuanlan.zhihu.com/p/459607806)
+
 ## vscode C/C++
 
 [VSCode配置C/C++环境](https://zhuanlan.zhihu.com/p/87864677/)
