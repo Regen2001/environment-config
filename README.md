@@ -95,6 +95,10 @@ Win安装完后可能在终端不显示`(base)`, 可参考下面的blog
 
 [树莓派4B（Ubuntu20.04）使用LCD1602液晶屏开机自动显示IP及其他信息](https://blog.csdn.net/weixin_40929065/article/details/126685611)
 
+## Ubuntu Nvidia驱动
+
+[Ubuntu下的NVIDIA显卡【驱动&CUDA 安装与卸载】](https://www.cnblogs.com/kin-zhang/p/17007246.html)
+
 ## Markdown 学术写作
 
 [学术论文写作新武器：Markdown](https://www.lianxh.cn/news/5194dd1c6fb92.html)
