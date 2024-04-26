@@ -33,6 +33,8 @@ Win安装完后可能在终端不显示`(base)`, 可参考下面的blog
 
 [Ubuntu 安装 conda](https://zhuanlan.zhihu.com/p/459607806)
 
+安装的时候应该将path修改成`~/anaconda3`
+
 ## vscode C/C++
 
 [VSCode配置C/C++环境](https://zhuanlan.zhihu.com/p/87864677/)
