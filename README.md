@@ -8,6 +8,8 @@
 
 但安装`PyTorch`的时候使用`pip`安装效果似乎会更好. `python`版本为3.11的时候用`conda`安装似乎不能安装`cuda`版本.
 
+[无法加载文件C:\Users\xxx\Documents\WindowsPowerShell\profile.ps1，因为在此系统上禁止运行脚本](https://blog.csdn.net/qq_42951560/article/details/123859735)
+
 ## LaTeX for Windows and Mac
 
 [Vscode + LaTeX](https://zhuanlan.zhihu.com/p/166523064)
