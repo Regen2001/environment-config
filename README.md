@@ -53,6 +53,8 @@ Win安装完后可能在终端不显示`(base)`, 可参考下面的blog
 
 [python环境下安装opencv库的方法](https://www.cnblogs.com/shuaishuaidefeizhu/p/11314761.html)
 
+[【解决方法】libGL.so.1: cannot open shared object file: No such file or directory](https://www.cnblogs.com/mrneojeep/p/16252044.html)
+
 ## vscode python
 
 [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
