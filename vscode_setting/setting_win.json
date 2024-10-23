@@ -173,20 +173,12 @@
 
     "code-runner.saveFileBeforeRun": true,
     "code-runner.runInTerminal": true,
-    "workbench.colorTheme": "GitHub Dark Default",
     "code-runner.saveAllFilesBeforeRun": true,
     "workbench.editor.untitled.hint": "hidden",
-    "matlab.matlabpath": "C:\\Program Files\\MATLAB\\R2023b\\bin\\matlab.exe",
-    "matlab.mlintpath": "C:\\Program Files\\MATLAB\\R2023b\\bin\\win64\\mlint.exe",
-    "matlab.linterConfig": "",
     "files.associations": {"*.m": "matlab"},
-    "matlab.linterEncoding" : "UTF-8",
-    "matlab-interactive-terminal.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
-    "matlab-interactive-terminal.unicodeSwitch": true,
-    "matlab-formatter.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
     "editor.snippetSuggestions": "top",
-    "python.defaultInterpreterPath": "C:\\ProgramData\\Anaconda3\\python.exe",
-    "debug.inlineValues": true,
+    "python.defaultInterpreterPath": "C:\\ProgramData\\Anaconda3\\envs\\nettrack\\python.exe",
+    // "debug.inlineValues": true,
     "markdown-preview-enhanced.previewTheme": "github-dark.css",
     "notebook.lineNumbers": "on",
     "workbench.iconTheme": "office-material-icon-theme",
@@ -210,5 +202,13 @@
     //     "*.md": "default"
     // },
     "hediet.vscode-drawio.theme": "automatic",
-    "workbench.editor.enablePreview": false,
+    "workbench.editorAssociations": {
+        "{git,gitlens}:/**/*.{md,csv,svg}": "default"
+    },
+    "workbench.colorTheme": "GitHub Dark Default",
+    "python.condaPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "editor.fontFamily": "'Monaspace Neon', 'MesloLGS Nerd Font Mono'",
+    "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09'",
+    "editor.inlineSuggest.fontFamily": "monospace Krypton",
+    "editor.fontSize": 13,
 }
