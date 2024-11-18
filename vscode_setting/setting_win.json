@@ -166,8 +166,7 @@
         "FortranFreeForm": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
         "fortran-modern": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
         "fortran_fixed-form": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
-        "fortran": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
-        "matlab": "cd $dir && matlab -nosplash -nodesktop -r $fileNameWithoutExt"
+        "fortran": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
     },
 
 
@@ -175,13 +174,12 @@
     "code-runner.runInTerminal": true,
     "code-runner.saveAllFilesBeforeRun": true,
     "workbench.editor.untitled.hint": "hidden",
-    "files.associations": {"*.m": "matlab"},
     "editor.snippetSuggestions": "top",
-    "python.defaultInterpreterPath": "C:\\ProgramData\\Anaconda3\\envs\\nettrack\\python.exe",
+    "python.defaultInterpreterPath": "C:\\ProgramData\\Anaconda3\\python.exe",
     // "debug.inlineValues": true,
     "markdown-preview-enhanced.previewTheme": "github-dark.css",
     "notebook.lineNumbers": "on",
-    "workbench.iconTheme": "office-material-icon-theme",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.editor.enablePreview": false,
     "[markdown]": {
         "editor.unicodeHighlight.ambiguousCharacters": false,
@@ -195,7 +193,7 @@
     },
     "vscode-office.openOutline": false,
     "security.workspace.trust.untrustedFiles": "open",
-    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "terminal.integrated.enableMultiLinePasteWarning": "auto",
     "editor.cursorBlinking": "smooth",
     "git.autofetch": true,
     // "workbench.editorAssociations": {
@@ -205,10 +203,14 @@
     "workbench.editorAssociations": {
         "{git,gitlens}:/**/*.{md,csv,svg}": "default"
     },
-    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.colorTheme": "Dracula Theme",
     "python.condaPath": "C:\\ProgramData\\Anaconda3\\python.exe",
     "editor.fontFamily": "'Monaspace Neon', 'MesloLGS Nerd Font Mono'",
     "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'ss09'",
     "editor.inlineSuggest.fontFamily": "monospace Krypton",
     "editor.fontSize": 13,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmPasteNative": false,
+    "vscode-office.editorTheme": "Dracula",
+    "terminal.integrated.cursorStyle": "line",
 }
