@@ -110,3 +110,9 @@ Win安装完后可能在终端不显示`(base)`, 可参考下面的blog
 ## Markdown 学术写作
 
 [学术论文写作新武器：Markdown](https://www.lianxh.cn/news/5194dd1c6fb92.html)
+
+# Windows系统修改默认shell为zsh
+
+[Windows安装Zsh终端](https://zhuanlan.zhihu.com/p/625583037)
+
+[一文搞定 Windows Terminal 设置与 zsh 安装【非WSL】](https://zhuanlan.zhihu.com/p/455925403)
