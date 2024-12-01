@@ -116,3 +116,14 @@ Win安装完后可能在终端不显示`(base)`, 可参考下面的blog
 [Windows安装Zsh终端](https://zhuanlan.zhihu.com/p/625583037)
 
 [一文搞定 Windows Terminal 设置与 zsh 安装【非WSL】](https://zhuanlan.zhihu.com/p/455925403)
+
+Windows系统中的`.zshrc`中的conda initialize应如下：
+```
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+eval "$('/c/ProgramData/Anaconda3/Scripts/conda.exe' 'shell.zsh' 'hook' | sed -e 's/"$CONDA_EXE" $_CE_M $_CE_CONDA "$@"/"$CONDA_EXE" $_CE_M $_CE_CONDA "$@" | tr -d \x27\\r\x27/g')"
+# <<< conda initialize <<<
+
+# Set the environment variable to avoid UnicodeEncodeError
+export PYTHONIOENCODING=UTF-8
+```
